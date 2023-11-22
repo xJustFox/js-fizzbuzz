@@ -15,3 +15,11 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 
 #### BONUS:
 Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
+
+### Problem Solving:
+1- Crea un loop "for" che stampi in console i numeri da 1 a 100
+2- Crea una variabile "name_multiple"
+3- Crea un if in cui:
+    - Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”
+    - Per i multipli di 5 stampi “Buzz”
+    - Per i multipli di 3 stampi “Fizz”
